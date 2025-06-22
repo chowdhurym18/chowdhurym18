@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Abid Chowdhury
 
-<!--
-**chowdhurym18/chowdhurym18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science major at William Paterson University  
+🎯 Honors College | GPA: 3.9 | Graduation: 2027  
+💻 Skills: Python, C++, Git, VS Code  
+🔍 Interested in software engineering, problem solving, and building real-world projects
 
-Here are some ideas to get you started:
+📚 Currently working on:
+- Personal GitHub projects
+- LeetCode practice for internships
+- Completing the CS50 curriculum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's connect:
