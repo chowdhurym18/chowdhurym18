@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abid Chowdhury
+### 👋 Hi, I'm Mohaimenul Chowdhury
 
 🎓 Computer Science major at William Paterson University  
 🎯 Honors College | GPA: 3.9 | Graduation: 2027  
